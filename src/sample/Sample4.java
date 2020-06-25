@@ -55,7 +55,7 @@ public class Sample4 extends Application {
         // display the stage
         stage.setTitle("サンプル");
         stage.show();
-        
+
     }
 
 }
