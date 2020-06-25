@@ -28,7 +28,7 @@ public class Sample7 extends Application {
         }
         im = new Image(getClass().getResourceAsStream(("car.jpg")));
 
-        // set image size
+
 
         lb[0].setGraphic(new ImageView(im));
         lb[1].setGraphic(new ImageView(im));
